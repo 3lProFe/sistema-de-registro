@@ -3,4 +3,5 @@
 - Estado del proyecto: en construccion.
 
 para usar el sistema debes poner:
-"npm install react"
+
+´´npm install react´´
